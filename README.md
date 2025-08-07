@@ -21,10 +21,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-4B4B4B?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JNI](https://img.shields.io/badge/JNI-darkgreen?style=for-the-badge)
+
 
 #### 🛠 Tools:
 
@@ -45,6 +47,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=All1eexx&theme=gruvbox&background=00000000&stroke=22FF55&ring=00FF88&fire=22FF55&currStreakLabel=00FF88&sideNums=A0FFA0&dates=A0FFA0" alt="All1eexx's streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=All1eexx&theme=react-dark&bg_color=00000000&color=22FF55&line=00FF88&point=A0FFA0" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,kotlin,py,git,bash,java,android&theme=dark&perline=8" alt="Tech Stack" />
 </p>
 
 ---
